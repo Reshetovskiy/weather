@@ -1,0 +1,23 @@
+{
+  "name": "wearher-city-app",
+  "version": "1.0.0",
+  "description": "My unreal Nuxt.js project",
+  "author": "reshet",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxtjs/axios": "^5.3.6",
+    "nuxt": "^2.0.0",
+    "nuxt-vuex-localstorage": "^1.2.6",
+    "vuex": "^3.4.0"
+  },
+  "devDependencies": {
+    "@nuxtjs/vuetify": "^1.0.0",
+    "prettier": "2.0.5"
+  }
+}

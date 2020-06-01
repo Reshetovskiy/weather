@@ -27,7 +27,7 @@
             <v-list-item-icon class="mr-2">
                 <v-icon>mdi-cloud</v-icon>
             </v-list-item-icon>
-            <v-list-item-subtitle>{{ card.clouds.all }}km/h</v-list-item-subtitle>
+            <v-list-item-subtitle>{{ card.clouds.all }}%</v-list-item-subtitle>
         </v-list-item>
         <v-divider></v-divider>
 
